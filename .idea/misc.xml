@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/lesson8task5java/app/src/main/res/layout/activity_adapter_pager1.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/lesson8task5java/app/src/main/res/layout/activity_adapter_pager2.xml" value="0.136" />
+        <entry key="..\:/Users/LENOVO/lesson8task5java/app/src/main/res/layout/activity_adapter_pager3.xml" value="0.11195542046605876" />
+        <entry key="..\:/Users/LENOVO/lesson8task5java/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/lesson8task5java/app/src/main/res/layout/contact_layout.xml" value="0.11246200607902736" />
+        <entry key="..\:/Users/LENOVO/lesson8task5java/app/src/main/res/layout/page2.xml" value="0.11246200607902736" />
+        <entry key="..\:/Users/LENOVO/lesson8task5java/app/src/main/res/layout/posts.xml" value="0.11246200607902736" />
+        <entry key="..\:/Users/LENOVO/lesson8task5kotlin/app/src/main/res/layout/contact_layout.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/LENOVO/lesson8task5kotlin/app/src/main/res/layout/page2.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/LENOVO/lesson8task5kotlin/app/src/main/res/layout/posts.xml" value="0.21014492753623187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
