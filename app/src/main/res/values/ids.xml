@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_UsersNumber_ID" type="id" />
+    <item name="text_Users_ID" type="id" />
+    <item name="text_Posts_ID" type="id" />
+    <item name="text_Contacts_ID" type="id" />
+    <item name="table_layoutId" type="id" />
+    <item name="viewpager_ID" type="id" />
+</resources>
